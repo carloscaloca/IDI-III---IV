@@ -12,8 +12,6 @@ Modelo de Clasificación 2: Regresión Logística (MRL)
 
 Modelo de Clasificación 3: Perceptrón Multicapa (MPM)
 
-Métricas de Rendimiento (metricas)
-
 Visualizaciones (visualizaciones)
 
 # Autor
