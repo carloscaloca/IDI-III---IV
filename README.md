@@ -3,12 +3,19 @@ Este repositorio reune los aspectos técnicos de la implementación del Trabajo 
 modelado predictivo para Series de Tiempo.
 # Funcionalidades
 Características Lineales y Autorregresivas (caracteristicas)
+
 Preprocesamiento (preprocesamiento)
-Modelo de Clasificación 1: Red Neuronal (modelos)
-Modelo de Clasificación 2: Regresión Logística (modelos)
-Modelo de Clasificación 3: Perceptrón Multicapa (modelos)
+
+Modelo de Clasificación 1: Red Neuronal (MRN)
+
+Modelo de Clasificación 2: Regresión Logística (MRL)
+
+Modelo de Clasificación 3: Perceptrón Multicapa (MPM)
+
 Métricas de Rendimiento (metricas)
+
 Visualizaciones (visualizaciones)
+
 # Autor
 Carlos Caloca Gómez
 # Licencia
