@@ -1,0 +1,13 @@
+# -- Data and calculations
+pandas>=2.0.3
+numpy>=1.25.2
+datetime>=4.3
+
+# -- Visualizations
+matplotlib>=3.7.1
+seaborn>=0.13.1
+plotly>=5.15.0
+
+# -- Machine Learning Models
+sklearn>=2.2.0
+scipy>=1.11.4
